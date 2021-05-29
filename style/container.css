@@ -1,0 +1,36 @@
+.contain{
+    /* background-color: red; */
+    padding: 20px;
+    height: 400px;
+    width: 1000px;
+    margin-left: 82px;
+}
+
+.contain p
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    line-height: 1.5em;
+    /* text-align: justify; */
+    color: #96969d;
+    font-size: 16px;
+    float: left;
+    /* width: 100%;
+    margin-bottom: 15px; */
+}
+
+.contain h2
+{
+    text-decoration: none;
+    color: #449cdf;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 32px;
+    float: left;
+    /* width: 100%; */
+    /* position: relative; */
+    line-height: 1em;
+    margin-bottom: 30px;
+}
+
