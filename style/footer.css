@@ -1,0 +1,88 @@
+.foot
+{
+    height: 150px;
+    width: 100%;
+    background-color: #0082e6;
+    outline: 10px solid #0082e6;
+    padding: 0px;
+}
+
+label.footlogo{
+
+    color: white;
+    font-size: 24px;
+    line-height: 70px;
+    padding: 0px 100px;
+    font-weight: bold;
+    margin-left: 580px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+#banner1{
+    font-size: 20px;
+    color: black;
+}
+
+#banner1:hover{
+    font-size: 24px;
+    color: White;
+    transition: 1s;
+}
+
+.foot p{
+    margin-left: 600px;
+    margin-top: -20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    color: white;
+    padding: 0px;
+}
+
+.foot ul{
+    margin-top: 30px;
+    margin-left: 550px;
+}
+.socails{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 1rem 0 3rem 0; */
+    margin-left: 580px;
+
+}
+
+.socials li{
+    display: inline;
+    margin: 0 10px;
+}
+
+.socials a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.socials a i{
+
+    font-size: 1.1rem;
+}
+
+.socials a:hover i{
+    color: black;
+}
+
+.footerbottom
+{
+    margin-left: -110px;
+    margin-top: 10px;
+}
+
+.footerbottom p{
+    margin-top: 5px;
+}
+
+#last{
+    color: black;
+    font-size: 16px;
+}
